@@ -1,0 +1,39 @@
+.notif{
+    position: fixed;
+    top: 10px;
+    background: #15521d;
+    right: 1px;
+    padding: 8px 25px;
+    color: white;
+    box-shadow: -5px 0px 0px 0px #90922bd4;
+    z-index: 999999999999;
+}
+
+.tombolLog{
+    text-align: right;
+    padding: 5px 0px;
+    /* margin-top: 15px; */
+}
+
+.formLogin{
+    background: rgb(243 239 230 / 90%);
+    padding: 17px;
+    box-shadow: 0px 1px 6px -2px black;
+    color: #8892b1;
+}
+
+.bagLog{
+    background-image: url('../../assets/img/batik.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200%;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    opacity: 0.3;
+    background-color: black;
+    /* background-size: 113vw 154vh; */
+}
+
+
+
